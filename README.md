@@ -1,16 +1,20 @@
-## Hi there 👋
+# 💻 Sachu Saji  
 
-<!--
-**sachu7589/sachu7589** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Freelance Developer | Blockchain Enthusiast**  
+💡 Passionate about web & mobile development, blockchain, and open-source.  
 
-Here are some ideas to get you started:
+### 🛠 **Tech Stack:**  
+- **Frontend:** React, React Native, JavaScript  
+- **Backend:** Django, PHP, Node.js  
+- **Database:** SQL, MongoDB  
+- **Blockchain:** Solidity, Ethereum  
+- **Other Skills:** DevOps, Cloud (OCI Certified)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 **GitHub Stats**  
+![Sachu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sachu7589&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachu7589&layout=compact&theme=radical)  
+
+### 🌍 **Let's Connect!**  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230A66C2?style=for-the-badge&logo=web)](https://sachufreelancer.netlify.app/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachusaji/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sachu7589)  
