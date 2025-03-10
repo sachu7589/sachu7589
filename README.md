@@ -37,7 +37,6 @@
 ✅ **DevOps Essentials Certification** - Infosys  
 ✅ **Getting Started with PHP 7** - Infosys  
 ✅ **SOLID Principles Masterclass** - 2024  
-✅ **MS-DOS Complete Course** - From Zero to Professional  
 
 🏆 **Co-founder @ Freshire (Freelancing Community)**  
 📌 **Executive Committee Member @ KBAIC**  
